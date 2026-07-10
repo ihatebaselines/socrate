@@ -1,4 +1,5 @@
-﻿# Socrate Main Model
+﻿# Socrate Cat Version 1.0 Main Model:))
+
 Main model fully coded by me.
 Parameters: 159,207,935
 
